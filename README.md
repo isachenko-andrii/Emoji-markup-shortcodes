@@ -1,13 +1,6 @@
 # Emoji-markup-shortcodes
 A comprehensive list of all supported emojis and their corresponding markups  
-
-  A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
-
-Additional original source material: http://unicode.org/emoji/charts/full-emoji-list.html
-
-This table is available as a gist at https://gist.github.com/GerHobbelt/b9b87a2257ddd5251a45628d61385717 and as part of the build repo at https://github.com/GerHobbelt/emoji-list/blob/master/dist/emoji-list.md
-
-
+  
 # Table of Contents
 
 - [Smileys and People](#smileys-and-people)
@@ -676,4 +669,11 @@ This table is available as a gist at https://gist.github.com/GerHobbelt/b9b87a22
 | :rage1: `:rage1:` | :rage2: `:rage2:` | :rage3: `:rage3:` |
 | :rage4: `:rage4:` | :shipit: `:shipit:` | :suspect: `:suspect:` |
 | :trollface: `:trollface:` |  |  |
+
+
+  A list of GitHub emoji markup, adapted from rxavier's _[Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)_, generated with a Grunt script for maintainability ([see repository](https://github.com/ricealexander/emoji-list)).
+
+Additional original source material: http://unicode.org/emoji/charts/full-emoji-list.html
+
+This table is available as a gist at https://gist.github.com/GerHobbelt/b9b87a2257ddd5251a45628d61385717 and as part of the build repo at https://github.com/GerHobbelt/emoji-list/blob/master/dist/emoji-list.md
 
